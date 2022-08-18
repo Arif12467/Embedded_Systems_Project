@@ -25,4 +25,4 @@ The meat thermometer works by having the user first pick the type of meat they a
 
 Note: For the demonstration below, the temperature in the array was set to 10°F for well-done beef.
 
-https://user-images.githubusercontent.com/78330724/185505109-305da912-dc2d-4293-be01-ae08ec1e0a9c.mp4
+https://user-images.githubusercontent.com/78330724/185505303-d3eb8ad6-461b-47bb-be78-805549063029.mp4
