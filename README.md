@@ -24,3 +24,5 @@
 The meat thermometer works by having the user first pick the type of meat they are cooking; chicken, beef, lamb, salmon, or veggies. Then, the user is prompted to select the cooking temperature they desire; rare, medium-rare, medium, medium-well, or well-done. However, if chicken is selected, the meat thermometer does not allow the user to select any temperature but well-done. This restriction is due to the risk of disease. After selecting the cooking temperature, the screen displays the target and actual temperatures. A buzzer, RGB LED, and a red LED will be activated once the target cooking temperature is reached. The user can then reset the device by pressing the finish button.
 
 Note: For the demonstration below, the temperature in the array was set to 10°F for well-done beef.
+
+https://user-images.githubusercontent.com/78330724/185505109-305da912-dc2d-4293-be01-ae08ec1e0a9c.mp4
