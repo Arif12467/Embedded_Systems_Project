@@ -9,7 +9,7 @@
 
 ## Required Software
 * STM32CubeMX
-* IAR Embedded Workshop for Arm
+* IAR Embedded Workshop for ARM
 
 ## Custom PCB Schematic
 ![This is an image](https://github.com/Arif12467/Embedded_Workshop_Project/blob/197d9d13b342226579b97ea98ab01ef3f55910cf/Circuit1.png)
